@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 
-🌱 I’m currently learning Swift, SwiftUI and C++
+🌱 I’m currently learning Swift, SwiftUI, SpriteKit and C++
